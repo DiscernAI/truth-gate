@@ -1,5 +1,0 @@
-{
-  "core_truths": ["Truth must never be used to manipulate."],
-  "violation_keywords": ["manipulate"],
-  "collapse_triggers": ["core truth override attempt"]
-}
